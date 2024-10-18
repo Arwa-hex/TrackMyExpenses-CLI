@@ -21,6 +21,7 @@ The **TrackMyExpenses-CLI** is a simple command-line Python application designed
 
 # Example Output: 
 
+   ```mathematica
 Personal Expense Tracker
 1. Add Expense
 2. View All Expenses
