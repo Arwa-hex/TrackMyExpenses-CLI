@@ -18,3 +18,17 @@ The **TrackMyExpenses-CLI** is a simple command-line Python application designed
    ```bash
    git clone https://github.com/your-username/personal-expense-tracker.git
    cd personal-expense-tracker 
+
+# Example Output: 
+
+Personal Expense Tracker
+1. Add Expense
+2. View All Expenses
+3. View Expenses by Category
+4. Export Expenses to CSV
+5. Exit
+Choose an option: 1
+Enter amount: 25.50
+Enter description: Lunch
+Enter category: Food
+Expense added successfully.
